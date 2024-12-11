@@ -4,7 +4,8 @@ Google Search Analysis with Pytrends lets you explore and analyze Google Trends 
 
 # Key Features:
 
-    Track Trends Over Time 📈: Monitor the popularity of keywords and topics over days, months, or even years.
+    Track Trends Over Time 📈: Monitor the popularity of keywords and topics over days, months, or 
+                               even years.
     Geographic Insights 🌍: Discover where a topic is most popular, from countries to specific cities.
     Discover Related Topics 🔗: Find related search queries and rising trends to spot new opportunities.
     Seasonal Trends 🍂: Identify recurring patterns and understand how certain topics or keywords 
@@ -15,7 +16,8 @@ Google Search Analysis with Pytrends lets you explore and analyze Google Trends 
 
     Easy Access to Google Trends Data 🖥️: Pytrends allows you to access search data without the need for 
                                           complex setups or a Google account.
-    Actionable Insights 💡: Use real-time search data to make smarter business, marketing, and content decisions.
+    Actionable Insights 💡: Use real-time search data to make smarter business, marketing, and 
+                           content decisions.
     Competitive Advantage 🏆: Track what’s trending and stay ahead of your competitors by 
                               understanding what people are searching for.
 

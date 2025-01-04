@@ -1,6 +1,6 @@
  # Google Search Analysis with Pytrends 📊🔍
 
-Google Search Analysis with Pytrends lets you explore and analyze Google Trends data to unlock valuable insights about search behavior. Pytrends is a simple and powerful tool that helps you track trends, discover popular topics, and understand what people are searching for. Whether you're optimizing your marketing, improving content strategies, or tracking brand performance, Pytrends makes it easy to turn search data into meaningful insights. 🚀
+Google Search Analysis with Pytrends lets you explore and analyze Google Trends data to unlock valuable insights about search behavior. Pytrends is a simple and powerful tool that helps you track trends, discover popular topics, and understand what people are searching for. Whether you're optimizing your marketing, improving content strategies, or tracking brand performance, Pytrends makes it easy to turn search data into meaningful insights.🚀
 
 # Key Features:
 
